@@ -22,7 +22,7 @@ L'expérience était contemplative et immersive. Les vidéos transportaient les 
 
 ### Mise en espace
 Il y a 7 écrans au total, avec 5 situés au fond de la pièce et deux au milieu. Chaque écran, à l'exception du projecteur, est associé à deux haut-parleurs. De plus, la pièce est équipée de deux bancs au centre et de deux grands bancs à l'avant. La pièce est également entièrement recouverte d'un tapis choisi par l'artiste. En outre, on trouve deux caissons de basse, un à droite et un à gauche, au fond de la pièce.
-| Croquis | |
+| Croquis pièce complète | Croquis expérience |
 | :-------------: | :-------------: |
 | <img src="./MEDIA/Croquis_01.jpg" width=75% height=75%> |<img src=".//MEDIA/Croquis_02.jpg" width=115% height=125%> |
 
