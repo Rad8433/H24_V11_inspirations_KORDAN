@@ -47,8 +47,9 @@ C'était une expérience détendue où les visiteurs étaient libres de regarder
 | :---: | :---: |
 | <img src="./MEDIA/Vue_piece_complete.jpg" width=100% height=100%> | <img src="./MEDIA/Vue_experience.jpg" width=100% height=100%>|
 
-
-https://github.com/Rad8433/H24_V11_inspirations_KORDAN/assets/143246722/ddfc9a42-cd7c-41e5-951c-3d64fa211dcd
+| Vidéo de l'expérience |
+| :---: |
+| [![vidéo Phase Shifting Index](./MEDIA/img_vid_Phase_Shifting_Index.PNG)](https://www.youtube.com/watch?v=8eAFpFB96B8) Cliquez sur l'image pour accéder à la vidéo YouTube.|
 
 ***
 ### Ce qui vous a plu, vous a donné des idées👍
