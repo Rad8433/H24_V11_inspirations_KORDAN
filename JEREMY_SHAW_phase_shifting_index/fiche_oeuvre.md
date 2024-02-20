@@ -36,7 +36,7 @@ L'œuvre utilise des projecteurs, des écrans, des haut-parleurs, des caissons d
 L'exposition nécessitait l'utilisation d'un truss pour suspendre les écrans, les projecteurs et les haut-parleurs. Par ailleurs, des bancs étaient également nécessaires pour l'exposition.
 
 ### Expérience vécue
-C'était une expérience détendue, les visiteurs était libre de regardé et de se promener ou de s'asseoir.
+C'était une expérience détendue où les visiteurs étaient libres de regarder, se promener ou s'asseoir selon leur préférence. Les visiteurs pouvaient regarder l'écran debout ou observer confortablement depuis un banc.
 | Vue de l'expérience 1 | Vue de l'expérience 2 |
 | :---: | :---: |
 | <img src="./MEDIA/Vue_piece_complete.jpg" width=100% height=100%> | <img src="./MEDIA/Vue_experience.jpg" width=100% height=100%>|
