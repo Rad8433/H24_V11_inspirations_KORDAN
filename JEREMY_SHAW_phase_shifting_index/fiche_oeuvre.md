@@ -1,6 +1,6 @@
 # Jeremy Shaw : Phase Shifting Index
 
-Voici mon expérience documenté de l'exposition créer par Jeremy Shaw.
+Voici mon expérience documentée de ma visite de l'exposition "Phase Shifting Index" créée par Jeremy Shaw le 31 janvier 2024 à La Fonderie Darling.
 | Dépliant de l'exposition | Photo de moi devant la Fonderie Darling |
 | :---: | :---: |
 | <img src="./MEDIA/Depliant_Phase_Shifting_Index.jpg" width=80% height=65%> | <img src="./MEDIA/Devant_Fonderie_Darling.jpg" width=100% height=100%>|
@@ -33,7 +33,8 @@ L'œuvre utilise des projecteurs, des écrans, des haut-parleurs, des caissons d
 | <img src="./MEDIA/Caisson_basse.jpg" width=80% height=65%> | <img src="./MEDIA/Vue_ecran_banc.jpg" width=100% height=100%>|
 
 ### Éléments nécessaires à la mise en exposition
-L'exposition nécessitait l'utilisation d'un truss pour suspendre les écrans, les projecteurs et les haut-parleurs. Par ailleurs, des bancs étaient également nécessaires pour l'exposition.
+<img src="./MEDIA/Truss_piece.jpg" width=50% height=50%>
+L'exposition nécessitait l'utilisation d'un truss pour suspendre les écrans, les projecteurs et les haut-parleurs. De plus, des bancs étaient également nécessaires pour l'exposition, ainsi que des couvre-chaussures pour ceux qui ne souhaitaient pas enlever leurs chaussures.
 
 ### Expérience vécue
 C'était une expérience détendue où les visiteurs étaient libres de regarder, se promener ou s'asseoir selon leur préférence. Les visiteurs pouvaient regarder l'écran debout ou observer confortablement depuis un banc.
