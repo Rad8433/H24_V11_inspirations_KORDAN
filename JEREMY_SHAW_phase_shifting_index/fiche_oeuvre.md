@@ -35,7 +35,9 @@ L'œuvre utilise des projecteurs, des écrans, des haut-parleurs, des caissons d
 
 ***
 ### Éléments nécessaires à la mise en exposition
-<img src="./MEDIA/Truss_piece.jpg" width=50% height=50%>
+<p align="center">
+  <img src="./MEDIA/Truss_piece.jpg" width=50% height=50%>
+</p>
 L'exposition nécessitait l'utilisation d'un truss pour suspendre les écrans, les projecteurs et les haut-parleurs. De plus, des bancs étaient également nécessaires pour l'exposition, ainsi que des couvre-chaussures pour ceux qui ne souhaitaient pas enlever leurs chaussures.
 
 ***
@@ -54,11 +56,16 @@ J'ai aimé la manière dont les vidéos projetées étaient filmées avec de vie
 
 | Vue écran 1 | Vue écran 2 |
 | :---: | :---: |
-|<img src="./MEDIA/Ecran_danse_02.jpg" width=50% height=40%> | <img src="./MEDIA/Ecran_03.jpg" width=100% height=100%>|
+|<img src="./MEDIA/Ecran_danse_02.jpg" width=80% height=80%> | <img src="./MEDIA/Ecran_03.jpg" width=100% height=100%>|
 
 ***
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement👎
 Je n'ai pas aimé l'expérience de la danse synchronisée sur les écrans en raison des flashs, ce qui était trop agressif pour les yeux. De plus, j'ai trouvé que l'expérience était un peu trop longue pour ce qu'elle proposait, car elle se répétait simplement à la fin.
 
-https://github.com/Rad8433/H24_V11_inspirations_KORDAN/assets/143246722/4f2152b3-3b5a-4a29-8ea8-fcec6b286376
-
+***
+### Autres photo de l'expérience
+|  Effet stroboscope | Vue de côté de la pièce |
+| :---: | :---: |
+|<img src="./MEDIA/Vue_deux_ecrans.jpg" width=80% height=80%> | <img src="./MEDIA/Vue_piece_sombre.jpg" width=80% height=80%> |
+| Vue expérience 3 | DataMoshing |
+| <img src="./MEDIA/Vue_experience_02.jpg" width=80% height=80%> | <img src="./MEDIA/Datamoshing_02.jpg" width=80% height=80%> |
