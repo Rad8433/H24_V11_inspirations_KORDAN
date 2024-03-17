@@ -10,7 +10,7 @@ Voici mon expérience documentée de ma visite de l'exposition "Matière premiè
 | <img src="./MEDIA/Depliant_face.jpg" width=80% height=65%> | <img src="./MEDIA/Depliant_description.jpg" width=80% height=65%> |
 ***
 ### Description de l'oeuvre🖼️
-L'exposition "Matière première" se tient actuellement à la Galerie Elektra. Cette exposition temporaire, intérieure et itinérante, présente l'œuvre réalisée en 2023. Selon la description affichée sur le mur, il est mentionné que c'est une exposition inspirée d'un projet précédent appelé Fulldome, qui consistait à projeter des formes dans un dôme. Cette exposition reprend l'idée des formes et les affiche sur des écrans. L'artiste utilise des images de lui même pour créer les formes qui apparaissent dans son œuvre. Celle-ci ne se limite pas uniquement à des formes affichées, mais elle évolue en changement de positionnement, de couleur et se transforme. L'artiste exploite les imperfections de la numérisation au lieu de les dissimuler.
+L'exposition "Matière première" se tient actuellement à la Galerie Elektra. Cette exposition temporaire, intérieure et itinérante, présente des œuvres réalisées en 2023. D'après les informations fournies par le coordinateur de la galerie, cette exposition s'inspire de projets antérieurs impliquant la projection de formes dans un dôme. Elle réinterprète cette idée en affichant les formes sur des écrans. L'artiste utilise des images de lui-même pour créer les formes qui apparaissent dans son œuvre. Celle-ci ne se limite pas à des formes statiques, mais évolue dans le temps en variant son positionnement et sa couleur. L'artiste exploite les imperfections de la numérisation au lieu de les dissimuler.
 
 <p align="center">
   <img src="./MEDIA/Matiere_premiere_description.JPG" width=75% height=40%>
@@ -27,7 +27,7 @@ L'expérience était contemplative et met en lumière la capacité de l'art à s
 ***
 
 ### Mise en espace
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a lacus vitae magna ultricies euismod. Donec tristique accumsan dui nec tincidunt. Sed malesuada augue eu sem cursus, nec aliquam nunc semper. Praesent finibus ultrices justo, sit amet iaculis massa vestibulum at. 
+Il y avait 4 écrans carrés collés sur le mur de gauche, formant comme un cadre, et à côté, 3 longs écrans collés placés verticalement. Sur le mur du fond, un écran était placé horizontalement, tandis que sur le mur de droite, un écran était placé verticalement, tout comme ceux de gauche. Au plein milieu de la pièce, il y avait deux bancs pour s'asseoir.
 | Croquis pièce complète | Croquis expérience |
 | :-------------: | :-------------: |
 | image | image |
@@ -48,10 +48,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a lacus vitae mag
 
 ***
 ### Expérience vécue
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a lacus vitae magna ultricies euismod. Donec tristique accumsan dui nec tincidunt. Sed malesuada augue eu sem cursus, nec aliquam nunc semper. Praesent finibus ultrices justo, sit amet iaculis massa vestibulum at. 
-| Vue de l'expérience 1 | Vue de l'expérience 2 |
+C'était une expérience détendue où les visiteurs étaient libres de regarder, se promener ou s'asseoir selon leur préférence. Les visiteurs pouvaient regarder l'écran debout ou observer confortablement depuis un banc.
+| Vue de l'expérience debout | Vue de l'expérience assise |
 | :---: | :---: |
-| image | image |
+| <img src="./MEDIA/Experience_debout.JPG" width=60% height=60%> | <img src="./MEDIA/Experience_assise.JPG" width=60% height=60%> |
 
 | Vidéo de l'expérience |
 | :---: |
