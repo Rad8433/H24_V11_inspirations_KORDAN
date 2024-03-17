@@ -46,9 +46,6 @@ L'œuvre utilise simplement des écrans.
 
 ***
 ### Éléments nécessaires à la mise en exposition
-<p align="center">
-  image
-</p>
 L'exposition nécessitait l'utilisation de supports muraux pour fixer les affichages au mur et des bancs pour que les visiteurs puissent s'asseoir et les admirer confortablement, surtout s'ils ne pouvaient pas rester debout pendant de longues périodes.
 
 ***
