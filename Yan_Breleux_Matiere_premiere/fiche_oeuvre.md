@@ -60,7 +60,7 @@ C'était une expérience détendue où les visiteurs étaient libres de regarder
 
 | Vidéo de l'expérience |
 | :---: |
-| [![vidéo](./MEDIA/Vue_ecran_horizontale.JPG)](https://youtu.be/B8Mq9IGTpOg) Cliquez sur l'image pour accéder à la vidéo YouTube.|
+| [![vidéo](./MEDIA/Vue_ecran_horizontale.jpg)](https://youtu.be/B8Mq9IGTpOg) Cliquez sur l'image pour accéder à la vidéo YouTube.|
 
 ***
 ### Ce qui vous a plu, vous a donné des idées👍
