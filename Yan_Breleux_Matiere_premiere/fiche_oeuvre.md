@@ -42,7 +42,7 @@ Il y avait 4 écrans carrés collés sur le mur de gauche, formant comme un cadr
 L'œuvre utilise simplement des écrans.
 | Écran avec image rouge | Écran avec image bleu |
 | :---: | :---: |
-| <img src="./MEDIA/Vue_ecran_rouge.JPG" width=70% height=70%> | <img src="./MEDIA/Vue_ecran_bleu.JPG" width=90% height=90%> |
+| <img src="./MEDIA/Vue_ecran_rouge.JPG" width=60% height=60%> | <img src="./MEDIA/Vue_ecran_bleu.JPG" width=73% height=73%> |
 
 ***
 ### Éléments nécessaires à la mise en exposition
@@ -67,18 +67,18 @@ C'était une expérience détendue où les visiteurs étaient libres de regarder
 ### Ce qui vous a plu, vous a donné des idées👍
 J'ai beaucoup apprécié cette exposition pour sa simplicité. C'était une expérience qui nécessitait simplement vos yeux et votre cerveau, et j'ai trouvé intéressant comment l'œuvre pouvait facilement susciter la réflexion.
 
-| Le visage de l'artiste dans l'oeuvre | desc. de l'image |
-| :---: | :---: |
-| <img src="./MEDIA/Matiere_premiere_visage.jpg" width=30% height=30%> | image|
+| Le visage de l'artiste dans l'oeuvre |
+| :---: |
+| <img src="./MEDIA/Matiere_premiere_visage.jpg" width=30% height=30%> |
 
 ***
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement👎
 Malheureusement, j'ai trouvé que l'expérience était assez courte, car elle se composait de quelques écrans dans une petite pièce. Il était facile de faire le tour en moins d'une demi-heure.
 
 ***
-### Autres photo de l'expérience
-|  ? | ? |
+### Autres photos et vidéos de l'expérience.
+|  Écran avec image mauve | Écran avec image vert |
 | :---: | :---: |
-| image | image |
-| ? | ? |
-| image | image |
+| <img src="./MEDIA/Vue_ecran_mauve.JPG" width=50% height=50%> <br>https://www.youtube.com/watch?v=kCapbv7id2s</br> | <img src="./MEDIA/Vue_ecran_vert.JPG" width=50% height=50%> |
+| Écran verticale | Vue de trois écrans |
+| <img src="./MEDIA/Vue_ecran_verticale.JPG" width=70% height=70%> | <img src="./MEDIA/Vue_trois_ecrans.JPG" width=110% height=110%> <br>https://youtu.be/a-UZnRUcuZg</br> |
