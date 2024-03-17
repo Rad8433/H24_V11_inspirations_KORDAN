@@ -40,9 +40,9 @@ Il y avait 4 écrans carrés collés sur le mur de gauche, formant comme un cadr
 ***
 ### Composantes et techniques
 L'œuvre utilise simplement des écrans.
-| Écran | ? |
+| Écran avec image rouge | Écran avec image bleu |
 | :---: | :---: |
-| <img src="./MEDIA/Vue_ecran_rouge.JPG" width=70% height=70%> | <img src="./MEDIA/Vue_ecran_bleu.JPG" width=100% height=100%> |
+| <img src="./MEDIA/Vue_ecran_rouge.JPG" width=70% height=70%> | <img src="./MEDIA/Vue_ecran_bleu.JPG" width=90% height=90%> |
 
 ***
 ### Éléments nécessaires à la mise en exposition
