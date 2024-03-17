@@ -64,7 +64,7 @@ J'ai aimé la manière dont les vidéos projetées étaient filmées avec de vie
 Je n'ai pas aimé l'expérience de la danse synchronisée sur les écrans en raison des flashs, ce qui était trop agressif pour les yeux. De plus, j'ai trouvé que l'expérience était un peu trop longue pour ce qu'elle proposait, car elle se répétait simplement à la fin.
 
 ***
-### Autres photo de l'expérience
+### Autres photos de l'expérience
 |  Effet stroboscope | Vue de côté de la pièce |
 | :---: | :---: |
 |<img src="./MEDIA/Vue_deux_ecrans.jpg" width=80% height=80%> | <img src="./MEDIA/Vue_piece_sombre.jpg" width=80% height=80%> |
