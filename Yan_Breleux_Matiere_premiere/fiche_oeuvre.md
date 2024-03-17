@@ -1,7 +1,7 @@
 # Yan Breleux : Matière première
 Voici mon expérience documentée de ma visite de l'exposition "Matière première" créée par Yan Breleux le 2 mars 2024 à la Galerie Elektra.
 <p align="center">
-  <img src="./MEDIA/photo_moi_devant_elektra.JPG" width=40% height=40%>
+  <img src="./MEDIA/Photo_moi_devant_elektra.JPG" width=40% height=40%>
 <br>Photo de moi devant la galerie Elektra</br>
 </p>
 
@@ -32,6 +32,10 @@ Il y avait 4 écrans carrés collés sur le mur de gauche, formant comme un cadr
 | :-------------: | :-------------: |
 | image | image |
 
+| Vue gauche de la piece | Vue droite de la pièce |
+| :---: | :---: |
+| <img src="./MEDIA/Vue_piece_gauche.JPG" width=100% height=100%> | <img src="./MEDIA/Vue_piece_droite.JPG" width=100% height=100%>|
+
 ***
 ### Composantes et techniques
 L'œuvre utilise simplement des écrans.
@@ -61,9 +65,9 @@ C'était une expérience détendue où les visiteurs étaient libres de regarder
 ### Ce qui vous a plu, vous a donné des idées👍
 J'ai beaucoup apprécié cette exposition pour sa simplicité. C'était une expérience qui nécessitait simplement vos yeux et votre cerveau, et j'ai trouvé intéressant comment l'œuvre pouvait facilement susciter la réflexion.
 
-| Vue écran 1 | Vue écran 2 |
+| Le visage de l'artiste dans l'oeuvre | desc. de l'image |
 | :---: | :---: |
-| image | image|
+| <img src="./MEDIA/Matiere_premiere_visage.jpg" width=30% height=30%> | image|
 
 ***
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement👎
