@@ -1,13 +1,13 @@
-#Canevas cosmique
-##Les créateurs:
+# Canevas cosmique
+## Les créateurs:
 Jacob Alarie-Brousseau, Jérémy Cholette, Étienne Charron, Quoc Huy Do, Mikaël Tourangeau
 
-##Le lien du projet avec le thème Crescentia:
+## Le lien du projet avec le thème Crescentia:
 Le lien de ce projet avec le thème de la croissance réside dans le fait que dans l'interaction du projet, il y a une évolution dépendante des actions apportées par les interacteurs.
 
-##l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
+## l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 
-##Le schéma de l'installation
+## Le schéma de l'installation
 
 
 
