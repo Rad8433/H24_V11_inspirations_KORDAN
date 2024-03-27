@@ -8,7 +8,7 @@ Le lien de ce projet avec le thème de la croissance réside dans le fait que da
 ## l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 
 ## Le schéma de l'installation
-
+<img src="./media/Canevas_cosmique_schema_installation.png">
 
 
 
