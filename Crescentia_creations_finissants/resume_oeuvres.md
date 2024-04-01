@@ -48,7 +48,7 @@ Vous définirez la structure de votre présentation, en insérant des titres cla
 ## Le lien du projet avec le thème Crescentia:
 ## l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 ## Le schéma de l'installation
-<img src="./media/Rhizo_plantation">
+<img src="./media/Rhizo_plantation.png">
 Source: https://github.com/TIM-Celestia/Rhizomatique/tree/main/docs/preproduction
 
 ***
