@@ -26,17 +26,28 @@ Vous définirez la structure de votre présentation, en insérant des titres cla
 
 # Kigo
 ## Les créateurs:
+* Nicolas St-Martin
+* Antoine Dion
+* Érick Ouellette
+* william Rathier Mailly
+* Gabriel Clerval
 ## Le lien du projet avec le thème Crescentia:
 ## l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 ## Le schéma de l'installation
+Source:
 
 ***
 
 # Rhizomatique
 ## Les créateurs:
+* Jolyanne Desjardins
+* Maïka Désy
+* Laurie Houde
+* Félix Testa Radonovic
 ## Le lien du projet avec le thème Crescentia:
 ## l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 ## Le schéma de l'installation
+Source:
 
 ***
 
@@ -55,13 +66,22 @@ Le lien de ce projet avec le thème de la croissance réside dans le fait que da
 
 ## Le schéma de l'installation
 <img src="./media/Canevas_cosmique_schema_installation.png">
+Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/preproduction/medias/plantationGrandStudioFinal.png
+
 
 ***
 
 # Effet-Papillon
 ## Les créateurs:
+* Alexis Bolduc
+* Raphaël Dumont
+* Jasmine Lapierre
+* William Morel
+* Alexia Papanikolaou
+* Viktor Zhuravlev
 ## Le lien du projet avec le thème Crescentia:
 ## l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 ## Le schéma de l'installation
+Source:
 
 ***
