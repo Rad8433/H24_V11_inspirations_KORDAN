@@ -65,8 +65,8 @@ Le lien de ce projet avec le thème de la croissance réside dans le fait que da
 ## l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 
 ## Le schéma de l'installation
-<img src="./media/Canevas_cosmique_schema_installation.png">
-Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/preproduction/medias/plantationGrandStudioFinal.png
+<!--<img src="./media/Canevas_cosmique_schema_installation_studio.png">
+Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/preproduction-->
 
 
 ***
