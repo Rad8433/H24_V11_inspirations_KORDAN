@@ -34,7 +34,8 @@ Vous définirez la structure de votre présentation, en insérant des titres cla
 ## Le lien du projet avec le thème Crescentia:
 ## l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 ## Le schéma de l'installation
-Source:
+  <img src="./media/Kigo_plantation_technique.png">
+  Source: https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
 
 ***
 
@@ -47,7 +48,8 @@ Source:
 ## Le lien du projet avec le thème Crescentia:
 ## l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 ## Le schéma de l'installation
-Source:
+<img src="./media/Rhizo_plantation">
+Source: https://github.com/TIM-Celestia/Rhizomatique/tree/main/docs/preproduction
 
 ***
 
@@ -65,8 +67,8 @@ Le lien de ce projet avec le thème de la croissance réside dans le fait que da
 ## l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 
 ## Le schéma de l'installation
-<!--<img src="./media/Canevas_cosmique_schema_installation_studio.png">
-Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/preproduction-->
+<img src="./media/Canevas_cosmique_plantation_studio.png" height=5%>
+Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/preproduction
 
 
 ***
@@ -82,6 +84,7 @@ Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/pr
 ## Le lien du projet avec le thème Crescentia:
 ## l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 ## Le schéma de l'installation
-Source:
+<img src="./media/Effet_papillon_plantation.png">
+Source: https://github.com/Iteration6/Effet-Papillon/tree/main/docs/preproduction
 
 ***
