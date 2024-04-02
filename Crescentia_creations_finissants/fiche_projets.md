@@ -47,15 +47,31 @@ J'ai placé ce projet en première position car je l'ai trouvé simple, très in
 * Maïka Désy
 * Laurie Houde
 * Félix Testa Radonovic
+
+| Cartel du projet |
+| :---: |
+| <img src="./media/Rhizo_cartel.jpg" width=60% height=60%>|
+
 ## Lien du projet avec Crescentia:
+Selon moi, le lien entre le projet Rhizomatique et le thème de l'exposition, qui est la croissance, réside dans l'évolution des souvenirs. Selon l'emplacement où l'interacteur place sa main sur la toile, des souvenirs sont affichés, allant des plus anciens aux plus récents, reflétant ainsi un processus de croissance.
 ## L'installation en cours:
+L'expérience Rhizomatique se compose de haut-parleurs, de projecteurs, d'une sorte de boîte munie d'une toile sur sa surface, ainsi que d'une Kinect avec un projecteur en dessous de la boîte. L'interacteur place sa main sur la toile située sur la surface de la boîte, et la Kinect en dessous détecte la position de la main. Lorsque la main est déposée, une silhouette de main s'affiche sur la toile de la boîte, et l'animation sur la toile accrochée au mur change pour présenter un souvenir correspondant. De plus, l'expérience est accompagnée d'un son d'ambiance, et lorsque la main est déposée, un effet sonore est déclenché.
+
+| Photos de l'installation |
+| :---: |
+| <img src="./media/Rhizo_production.jpg" width=50% height=50%> <br>Les étudiants qui ajustent l'expérience.|
+| <img src="./media/Rhizo_projecteurs.jpg" width=50% height=50%> <br>Projecteurs.|
+| <img src="./media/Rhizo_kinect.jpg" width=50% height=50%> <br>La Kinect en dessous de la boîte.|
 ## Schéma de l'Installation:
 <img src="./media/Rhizo_plantation.png">
 Source: https://github.com/TIM-Celestia/Rhizomatique/tree/main/docs/preproduction
 
 ## 3 Cours Incontournables du Programme:
+Les trois cours que je considère comme incontournables pour la réalisation de ce projet sont ceux de traitement audiovisuel, d'installation multimédia et d'objets interactifs. En effet, le projet implique fortement l'utilisation de projecteurs, d'éléments interactifs, ainsi que des effets en temps réel et le déclenchement des vidéos et échantillons en fonction des interactions.
 ## Technique ou Composante Technologique:
+À travers cette expérience j'ai appris qu'on pouvait utilisé la kinect d'une autre manière que de l'utiliser pour detecter le corps d'une personne et son mouvement, mais pour créer un dispositf interactive avec le projecteur qui rend l'experience très intéressant.
 ## Ressenti lors de l'expérience de l'installation:
+
 ## Justification pour Classement de préférence:
 
 ***
