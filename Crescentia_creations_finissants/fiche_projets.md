@@ -3,8 +3,8 @@
 | [**Kigo**](#1kigo)        |
 | [**Rhizomatique**](#2rhizomatique) |
 | [**Canevas cosmique**](#3canevas-cosmique) |
+| [**Sonalux**](#4sonalux) |
 | [**Effet-Papillon**](#4effet-papillon) |
-| [**Sonalux**](#5sonalux) |
 
 # 1.Kigo
 ## Créateurs:
@@ -67,8 +67,25 @@ Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/pr
 ## Classement du Projet avec Justification:
 
 ***
+# 4.Sonalux
+## Créateurs:
+* Vincent Desjardins
+* Cam/lie Laprise
+* Ghita Alaoui
+* Antoine Haddad
+## Lien du projet avec Crescentia:
+## L'installation en cours:
+## Schéma de l'Installation:
+<img src="./media/Sonalux_schema_plantation.png" width=50%>
+Source: https://github.com/Sonalux2024/Sonalux/tree/main/docs/preproduction
 
-# 4.Effet-Papillon
+## Cours Incontournables du Programme:
+## Technique ou Composante Technologique:
+## Ressenti en Expérimentant les Installations:
+## Classement du Projet avec Justification:
+
+***
+# 5.Effet-Papillon
 ## Créateurs:
 * Alexis Bolduc
 * Raphaël Dumont
@@ -81,25 +98,6 @@ Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/pr
 ## Schéma de l'Installation:
 <img src="./media/Effet_papillon_plantation.png">
 Source: https://github.com/Iteration6/Effet-Papillon/tree/main/docs/preproduction
-
-## Cours Incontournables du Programme:
-## Technique ou Composante Technologique:
-## Ressenti en Expérimentant les Installations:
-## Classement du Projet avec Justification:
-
-***
-
-# 5.Sonalux
-## Créateurs:
-* Jolyanne Desjardins
-* Maïka Désy
-* Laurie Houde
-* Félix Testa Radonovic
-## Lien du projet avec Crescentia:
-## L'installation en cours:
-## Schéma de l'Installation:
-<img src="./media/Sonalux_schema_plantation.png" width=50%>
-Source: https://github.com/Sonalux2024/Sonalux/tree/main/docs/preproduction
 
 ## Cours Incontournables du Programme:
 ## Technique ou Composante Technologique:
