@@ -37,7 +37,7 @@ Les trois cours que je considère comme incontournables pour la réalisation de 
 Je ne savais pas qu'il était possible d'intégrer la Kinect dans des projets interactifs. Je pensais que c'était uniquement un accessoire de jeu réservé à la console Xbox.
 ## Ressenti lors de l'expérience de l'installation:
 L'expérience était amusante et m'a rappelé les jeux vidéo qui nécessitaient des mouvements réels, tels que ceux de la console Wii auxquels je jouais lorsque j'étais enfant. Les sons et les images du jeu m'ont immergé dans un univers futuriste, à l'esthétique cyberpunk
-## Justification pour Classement de préférence du Projet:
+## Justification pour Classement de préférence:
 J'ai placé ce projet en première position car je l'ai trouvé simple, très intuitif et facile à comprendre, offrant une expérience immersive. De plus, lors de l'installation de l'exposition, j'ai été impressionné par sa complétude.
 ***
 
@@ -56,7 +56,7 @@ Source: https://github.com/TIM-Celestia/Rhizomatique/tree/main/docs/preproductio
 ## 3 Cours Incontournables du Programme:
 ## Technique ou Composante Technologique:
 ## Ressenti lors de l'expérience de l'installation:
-## Justification pour Classement de préférence du Projet:
+## Justification pour Classement de préférence:
 
 ***
 
@@ -80,7 +80,7 @@ Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/pr
 ## 3 Cours Incontournables du Programme:
 ## Technique ou Composante Technologique:
 ## Ressenti en Expérimentant les Installations:
-## Justification pour Classement de préférence du Projet:
+## Justification pour Classement de préférence:
 
 ***
 # 4.Sonalux
@@ -98,7 +98,7 @@ Source: https://github.com/Sonalux2024/Sonalux/tree/main/docs/preproduction
 ## 3 Cours Incontournables du Programme:
 ## Technique ou Composante Technologique:
 ## Ressenti lors de l'expérience de l'installation:
-## Justification pour Classement de préférence du Projet:
+## Justification pour Classement de préférence:
 
 ***
 # 5.Effet-Papillon
@@ -118,6 +118,6 @@ Source: https://github.com/Iteration6/Effet-Papillon/tree/main/docs/preproductio
 ## 3 Cours Incontournables du Programme:
 ## Technique ou Composante Technologique:
 ## Ressenti lors de l'expérience de l'installation:
-## Justification pour Classement de préférence du Projet:
+## Justification pour Classement de préférence:
 
 ***
