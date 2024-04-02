@@ -135,7 +135,7 @@ L'expérience utilise trois projecteurs, trois murs (dont deux mobiles), un podi
 | :---: |
 | <img src="./media/Sonalux_experience_installation.jpg" width=40% height=40%> <br>L'expérience Sonalux pendant l'installation.|
 | <img src="./media/Sonalux_controlleur_test.jpg" width=40% height=40%> <br>Le prototype du podium pendant l'installation.|
-| <img src="./media/Sonalux_production.jpg" width=45% height=45%> Vue de l'expérience sans intéracteur pendant l'installation.|
+| <img src="./media/Sonalux_production.jpg" width=45% height=45%> <br>Vue de l'expérience sans intéracteur pendant l'installation.|
 
 ## Schéma de l'Installation:
 <img src="./media/Sonalux_schema_plantation.png" width=50%>
