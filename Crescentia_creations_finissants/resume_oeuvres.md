@@ -5,7 +5,7 @@
 | [**Canevas cosmique**](#canevas-cosmique) |
 | [**Effet-Papillon**](#effet-papillon) |
 
-# Kigo
+# 1.Kigo
 ## Créateurs:
 * Nicolas St-Martin
 * Antoine Dion
@@ -24,7 +24,7 @@
 ## Classement du Projet avec Justification
 ***
 
-# Rhizomatique
+# 2.Rhizomatique
 ## Créateurs:
 * Jolyanne Desjardins
 * Maïka Désy
@@ -43,7 +43,7 @@ Source: https://github.com/TIM-Celestia/Rhizomatique/tree/main/docs/preproductio
 
 ***
 
-# Canevas cosmique
+# 3.Canevas cosmique
 ## Créateurs:
 * Jacob Alarie-Brousseau 
 * Jérémy Cholette 
@@ -67,7 +67,7 @@ Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/pr
 
 ***
 
-# Effet-Papillon
+# 4.Effet-Papillon
 ## Créateurs:
 * Alexis Bolduc
 * Raphaël Dumont
