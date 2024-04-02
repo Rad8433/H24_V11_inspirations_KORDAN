@@ -169,12 +169,13 @@ J'ai classé l'expérience en quatrième position car les visuels et les sons é
 ## Lien du projet avec Crescentia:
 Le projet se concentre sur le concept du cycle de la vie, ce qui s'aligne parfaitement avec le thème de l'exposition axé sur la croissance.
 ## L'installation en cours:
-
+L'installation de l'expérience Effet-papillon est très unique par rapport aux autres projets, car elle utilise une pièce complète (le petit studio) et consiste en 3 projecteurs. Il y a également des haut-parleurs qui diffusent des effets sonores pendant l'expérience. Au centre de la pièce se trouve un tronc supposé représenter un arbre, et à travers les interactions que vous faites, l'arbre grandit. À la fin, il est censé projeter un paysage avec un cerf sur les murs de la pièce, mais ils n'ont pas eu l'occasion de le montrer pendant l'installation de leur projet. De plus, il y a deux leviers et des interrupteurs pour allumer des ampoules suspendues.
 | Photos de l'installation |
 | :---: |
-| <img src="./media/.jpg" width=40% height=40%> <br>.|
-| <img src="./media/.jpg" width=40% height=40%> <br>.|
-| <img src="./media/.jpg" width=45% height=45%> <br>.|
+| <img src="./media/Effet_papillon_production.jpg" width=40% height=40%> <br>L'expérience Effet-papillon pendant l'installation.|
+| <img src="./media/Effet_papillon_animation.jpg" width=40% height=40%> <br>Le modèle 3d pour l'animation du cerf.|
+| <img src="./media/Effet_papillon_levier_avant.jpg" width=45% height=45%> <br>Le prototype du levier pendant l'installation.|
+| <img src="./media/Effet_papillon_lumieres.jpg" width=45% height=45%> <br>Les interrupteurs avec les ampoules suspendues.|
 
 ## Schéma de l'Installation:
 <img src="./media/Effet_papillon_plantation.png">
