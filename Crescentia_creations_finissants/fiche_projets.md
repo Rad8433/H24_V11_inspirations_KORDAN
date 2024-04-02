@@ -84,19 +84,35 @@ J'ai placé ce projet en deuxième position parce que j'ai beaucoup aimé le con
 * Quoc Huy Do 
 * Mikaël Tourangeau
 
+| Cartel du projet |
+| :---: |
+| <img src="./media/Canevas_cosmique_cartel.jpg" width=60% height=60%>|
+
 ## Lien du projet avec Crescentia:
 Le lien de ce projet avec le thème de la croissance réside dans le fait que dans l'interaction du projet, il y a une évolution dépendante des actions apportées par les interacteurs.
 
 ## L'installation en cours:
+En termes d'installation, le projet est quelque peu similaire au projet Rhizomatique dans le sens où il utilise des haut-parleurs, des projecteurs et une Kinect. Cependant, au lieu d'une boîte avec la Kinect et un projecteur, il s'agit d'une table qui affiche ce qui est projeté par le projecteur placé en dessous. Sur la table, il y a des statuettes représentant des planètes. Lorsque vous déposez une statuette sur la table, la planète correspondante s'affiche sur la toile murale. Sous les statuettes, il y a une image similaire à un code QR, mais elle sert à identifier quelle statuette afficher et où l'afficher sur la projection murale en fonction de son positionnement sur la table. L'expérience est accompagnée de sons et d'effets sonores.
+
+| Photos de l'installation |
+| :---: |
+| <img src="./media/Canevas_cosmique_projecteur.jpg" width=40% height=40%> <br>Le projecteur et la Kinect sont positionnés en dessous de la table.|
+| <img src="./media/Canevas_cosmique_avant_statue.jpg" width=40% height=40%> <br>Avant de créer les statues, ils ont testé avec des cartes en papier comportant le code.|
+| <img src="./media/Canvas_cosmique_projection.jpg" width=45% height=45%> <br>L'expérience projetée sur la toile murale.|
+| <img src="./media/Canevas_cosmique_statue.jpg" width=35% height=35%> <br>La table et les statuettes. (Pendant l'exposition)|
 
 ## Schéma de l'Installation:
 <img src="./media/Canevas_cosmique_plantation_studio.png" width=80% height=80%>
 Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/preproduction
 
 ## 3 Cours Incontournables du Programme:
+Les trois cours que je considère comme incontournables pour la réalisation de ce projet sont les cours d'installation multimédia, de modélisation 3D et d'animation 3D. En effet, le projet implique fortement l'utilisation de la projection vidéo, la création en 3D et l'animation d'éléments en 3D.
 ## Technique ou Composante Technologique:
+L'intégration du langage de programmation Python dans le cadre du projet multimédia. Un script Python a été utilisé pour reconnaître l'image sous les statuettes ainsi que leur positionnement sur la table, puis convertir ces données pour les afficher dans l'expérience projetée sur la toile du mur.
 ## Ressenti en Expérimentant les Installations:
+L'expérience m'a fait ressentir comme si j'étais au Cosmodôme ou dans un autre musée lié à l'astronomie, où il y aurait une expérience interactive similaire. Cela m'a aussi donné un sentiment de contrôle car j'ai pu essayer différentes combinaisons de planètes et de positionnements de statuettes sur la table, et cela affichait toujours un résultat différent.
 ## Justification pour Classement de préférence:
+J'ai placé le projet en troisième position parce que j'ai trouvé que l'expérience était quand même bonne. Cependant, même si c'était assez intuitif, il fallait passer un certain temps à tester chaque combinaison pour comprendre le résultat obtenu par rapport à l'expérience.
 
 ***
 # 4.Sonalux
