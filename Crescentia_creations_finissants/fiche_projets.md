@@ -21,7 +21,7 @@
 ## Cours Incontournables du Programme:
 ## Technique ou Composante Technologique:
 ## Ressenti en Expérimentant les Installations:
-## Classement du Projet avec Justification
+## Classement du Projet avec Justification:
 ***
 
 # 2.Rhizomatique
@@ -39,7 +39,7 @@ Source: https://github.com/TIM-Celestia/Rhizomatique/tree/main/docs/preproductio
 ## Cours Incontournables du Programme:
 ## Technique ou Composante Technologique:
 ## Ressenti en Expérimentant les Installations:
-## Classement du Projet avec Justification
+## Classement du Projet avec Justification:
 
 ***
 
@@ -63,7 +63,7 @@ Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/pr
 ## Cours Incontournables du Programme:
 ## Technique ou Composante Technologique:
 ## Ressenti en Expérimentant les Installations:
-## Classement du Projet avec Justification
+## Classement du Projet avec Justification:
 
 ***
 
@@ -84,6 +84,25 @@ Source: https://github.com/Iteration6/Effet-Papillon/tree/main/docs/preproductio
 ## Cours Incontournables du Programme:
 ## Technique ou Composante Technologique:
 ## Ressenti en Expérimentant les Installations:
-## Classement du Projet avec Justification
+## Classement du Projet avec Justification:
+
+***
+
+# 5.Sonalux
+## Créateurs:
+* Jolyanne Desjardins
+* Maïka Désy
+* Laurie Houde
+* Félix Testa Radonovic
+## Lien du projet avec Crescentia:
+## L'installation en cours:
+## Schéma de l'Installation:
+<img src="./media/Sonalux_schema_plantation.png" width=50%>
+Source: https://github.com/Sonalux2024/Sonalux/tree/main/docs/preproduction
+
+## Cours Incontournables du Programme:
+## Technique ou Composante Technologique:
+## Ressenti en Expérimentant les Installations:
+## Classement du Projet avec Justification:
 
 ***
