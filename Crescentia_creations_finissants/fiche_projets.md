@@ -1,10 +1,10 @@
 | **Table de matières** |
 |-----------------------|
-| [**Kigo**](#1.kigo)        |
-| [**Rhizomatique**](#2.rhizomatique) |
-| [**Canevas cosmique**](#3.canevas-cosmique) |
-| [**Effet-Papillon**](#4.effet-papillon) |
-| [**Sonalux**](#5.sonalux) |
+| [**Kigo**](#1kigo)        |
+| [**Rhizomatique**](#2rhizomatique) |
+| [**Canevas cosmique**](#3canevas-cosmique) |
+| [**Effet-Papillon**](#4effet-papillon) |
+| [**Sonalux**](#5sonalux) |
 
 # 1.Kigo
 ## Créateurs:
