@@ -1,3 +1,5 @@
+<h1> Crescentia: Projets des élèves finissants </h1>
+
 | **Table de matières** |
 |-----------------------|
 | [**Kigo**](#1kigo)        |
@@ -159,6 +161,11 @@ J'ai classé l'expérience en quatrième position car les visuels et les sons é
 * William Morel
 * Alexia Papanikolaou
 * Viktor Zhuravlev
+
+| Cartel du projet |
+| :---: |
+| <img src="./media/Effet_papillon_cartel.jpg" width=60% height=60%>|
+
 ## Lien du projet avec Crescentia:
 ## L'installation en cours:
 ## Schéma de l'Installation:
