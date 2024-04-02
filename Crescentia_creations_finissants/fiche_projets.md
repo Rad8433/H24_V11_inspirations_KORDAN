@@ -167,14 +167,25 @@ J'ai classé l'expérience en quatrième position car les visuels et les sons é
 | <img src="./media/Effet_papillon_cartel.jpg" width=60% height=60%>|
 
 ## Lien du projet avec Crescentia:
+Le projet se concentre sur le concept du cycle de la vie, ce qui s'aligne parfaitement avec le thème de l'exposition axé sur la croissance.
 ## L'installation en cours:
+
+| Photos de l'installation |
+| :---: |
+| <img src="./media/.jpg" width=40% height=40%> <br>.|
+| <img src="./media/.jpg" width=40% height=40%> <br>.|
+| <img src="./media/.jpg" width=45% height=45%> <br>.|
+
 ## Schéma de l'Installation:
 <img src="./media/Effet_papillon_plantation.png">
 Source: https://github.com/Iteration6/Effet-Papillon/tree/main/docs/preproduction
 
 ## 3 Cours Incontournables du Programme:
+Similaire à l'expérience Sonalux, les trois cours incontournables du programme pour la réalisation de ce projet seraient le cours de traitement audiovisuel, le cours d'objets interactifs et le cours d'installation multimédia. En effet, le projet fait largement appel à l'utilisation d'appareils électroniques pour contrôler l'expérience, aux effets spéciaux et à la projection vidéo.
 ## Technique ou Composante Technologique:
+À travers cette expérience, j'ai découvert les multiples possibilités offertes par les Raspberry Pi dans le cadre de projets multimédias.
 ## Ressenti lors de l'expérience de l'installation:
+L'expérience m'a donné l'impression d'être transporté dans la nature grâce aux effets sonores, mais le projet n'était pas assez complet pour permettre une immersion totale dans l'expérience, malheureusement.
 ## Justification pour Classement de préférence:
-
+J'ai classé cette expérience en dernière position bien que j'aie beaucoup apprécié leur concept. Cependant, ils ont essayé d'en faire trop pour rendre l'expérience immersive, ce qui n'a pas aidé leur projet et rendait l'expérience peu intuitive.
 ***
