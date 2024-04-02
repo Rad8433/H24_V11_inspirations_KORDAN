@@ -4,6 +4,7 @@
 | [**Rhizomatique**](#rhizomatique) |
 | [**Canevas cosmique**](#canevas-cosmique) |
 | [**Effet-Papillon**](#effet-papillon) |
+| [**Sonalux**](#sonalux) |
 
 # 1.Kigo
 ## Créateurs:
