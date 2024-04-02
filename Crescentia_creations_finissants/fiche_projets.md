@@ -129,24 +129,23 @@ J'ai placé le projet en troisième position parce que j'ai trouvé que l'expér
 ## Lien du projet avec Crescentia:
 Le lien de ce projet avec la thématique de l'exposition réside dans le fait qu'il est toujours en évolution.
 ## L'installation en cours:
-L'expérience fait usage de projecteurs, d'un poste de contrôle (les élèves ont créé une sorte de boîtier avec des boutons) et d'écouteurs qui sont accrochés sur le poste. Selon les boutons appuyés, la projection et la musique changent d'une certaine manière, mais le contenu généré est toujours différent, il ne reste jamais le même.
+L'expérience utilise trois projecteurs, trois murs (dont deux mobiles), un podium équipé de boutons pour contrôler l'expérience, ainsi que des écouteurs accrochés sur le podium. En fonction des boutons pressés, la projection et la musique changent d'une certaine manière, mais le contenu généré reste toujours différent, ne demeurant jamais le même.
 
 | Photos de l'installation |
 | :---: |
-| <img src="./media/" width=40% height=40%> <br>.|
-| <img src="./media/" width=40% height=40%> <br>.|
-| <img src="./media/" width=45% height=45%> <br>.|
-| <img src="./media/" width=35% height=35%> <br>.|
+| <img src="./media/Sonalux_experience_installation.jpg" width=40% height=40%> <br>L'expérience Sonalux pendant l'installation.|
+| <img src="./media/Sonalux_controlleur_test.jpg" width=40% height=40%> <br>Le prototype du podium pendant l'installation.|
+| <img src="./media/Sonalux_production.jpg" width=45% height=45%>|
 
 ## Schéma de l'Installation:
 <img src="./media/Sonalux_schema_plantation.png" width=50%>
 Source: https://github.com/Sonalux2024/Sonalux/tree/main/docs/preproduction
 
 ## 3 Cours Incontournables du Programme:
-Trois cours incontournables du programme pour la réalisation de ce projet seraient le cours de traitement audiovisuel, le cours d'objets interactifs et le cours d'installation multimédia.
+Trois cours incontournables du programme pour la réalisation de ce projet seraient le cours de traitement audiovisuel, le cours d'objets interactifs et le cours d'installation multimédia. En effet, le projet fait fortement usage d'appareils électroniques pour contrôler l'expérience, d'effets spéciaux et de la projection vidéo.
 ## Technique ou Composante Technologique:
 ## Ressenti lors de l'expérience de l'installation:
-L'expérience m'a fait ressentir...
+L'expérience m'a donné un sentiment de contrôle similaire à celui de l'expérience du Canevas cosmique. Cependant, le fait que le contenu soit généré de manière aléatoire signifie qu'on ne peut jamais anticiper ce qui va s'afficher ou ce que l'on va entendre, ce qui rend l'expérience un peu monotone. Par ailleurs, en termes de visuels, cela m'a donné l'impression d'être projeté dans le futur, l'expérience semblant être vivante grâce à son évolution indépendante.
 ## Justification pour Classement de préférence:
 J'ai classé l'expérience en quatrième position car les visuels et les sons étaient bons, mais l'expérience était très courte. Bien qu'elle continue sans arrêt à générer du contenu différent à l'infini, après quelques minutes, j'avais envie de passer à autre chose
 ***
