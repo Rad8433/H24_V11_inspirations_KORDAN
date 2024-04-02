@@ -71,9 +71,9 @@ Les trois cours que je considère comme incontournables pour la réalisation de 
 ## Technique ou Composante Technologique:
 À travers cette expérience j'ai appris qu'on pouvait utilisé la kinect d'une autre manière que de l'utiliser pour detecter le corps d'une personne et son mouvement, mais pour créer un dispositf interactive avec le projecteur qui rend l'experience très intéressant.
 ## Ressenti lors de l'expérience de l'installation:
-
+J'ai ressenti une sensation similaire à celle que l'on éprouve en essayant de se rappeler certains moments précieux, mais le temps écoulé les rend flous, rendant difficile de se souvenir de tous les détails exacts.
 ## Justification pour Classement de préférence:
-
+J'ai placé ce projet en deuxième position parce que j'ai beaucoup aimé le concept, ça me faisait un peu penser à un scrapbook mais en version expérience interactive. L'expérience était simple, mais un peu trop courte.
 ***
 
 # 3.Canevas cosmique
