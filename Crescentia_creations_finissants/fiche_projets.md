@@ -190,3 +190,10 @@ L'expérience m'a donné l'impression d'être transporté dans la nature grâce 
 ## Justification pour Classement de préférence:
 J'ai classé cette expérience en dernière position bien que j'aie beaucoup apprécié leur concept. Cependant, ils ont essayé d'en faire trop pour rendre l'expérience immersive, ce qui n'a pas aidé leur projet et rendait l'expérience peu intuitive.
 ***
+# Vidéos
+| Cliquez sur l'image pour voir la vidéo. |
+| :---: |
+| <a href="https://youtu.be/EsXMM7X0t-A" target="_blank"><img src="./media/Sonalux_experience.jpg" width="40%" height="40%"></a> <br>Sonalux |
+| <a href="https://youtu.be/SU-UHbMCyRY" target="_blank"><img src="./media/Rhizo_toile_main.jpg" width="40%" height="40%"></a> <br>Rhizomatique |
+| <a href="https://www.youtube.com/watch?v=MQ4kN65-TKk" target="_blank"><img src="./media/Effet_papillon_tronc.jpg" width="40%" height="40%"></a> <br>Effet-papillon |
+***
