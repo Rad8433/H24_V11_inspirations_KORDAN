@@ -19,10 +19,10 @@
   <img src="./media/Kigo_plantation_technique.png">
   Source: https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
 
-## Cours Incontournables du Programme:
+## 3 Cours Incontournables du Programme:
 ## Technique ou Composante Technologique:
 ## Ressenti en Expérimentant les Installations:
-## Classement du Projet avec Justification:
+## Justification pour Classement de préférence du Projet:
 ***
 
 # 2.Rhizomatique
@@ -37,10 +37,10 @@
 <img src="./media/Rhizo_plantation.png">
 Source: https://github.com/TIM-Celestia/Rhizomatique/tree/main/docs/preproduction
 
-## Cours Incontournables du Programme:
+## 3 Cours Incontournables du Programme:
 ## Technique ou Composante Technologique:
 ## Ressenti en Expérimentant les Installations:
-## Classement du Projet avec Justification:
+## Justification pour Classement de préférence du Projet:
 
 ***
 
@@ -61,10 +61,10 @@ Le lien de ce projet avec le thème de la croissance réside dans le fait que da
 <img src="./media/Canevas_cosmique_plantation_studio.png" width=80% height=80%>
 Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/preproduction
 
-## Cours Incontournables du Programme:
+## 3 Cours Incontournables du Programme:
 ## Technique ou Composante Technologique:
 ## Ressenti en Expérimentant les Installations:
-## Classement du Projet avec Justification:
+## Justification pour Classement de préférence du Projet:
 
 ***
 # 4.Sonalux
@@ -79,10 +79,10 @@ Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/pr
 <img src="./media/Sonalux_schema_plantation.png" width=50%>
 Source: https://github.com/Sonalux2024/Sonalux/tree/main/docs/preproduction
 
-## Cours Incontournables du Programme:
+## 3 Cours Incontournables du Programme:
 ## Technique ou Composante Technologique:
 ## Ressenti en Expérimentant les Installations:
-## Classement du Projet avec Justification:
+## Justification pour Classement de préférence du Projet:
 
 ***
 # 5.Effet-Papillon
@@ -99,9 +99,9 @@ Source: https://github.com/Sonalux2024/Sonalux/tree/main/docs/preproduction
 <img src="./media/Effet_papillon_plantation.png">
 Source: https://github.com/Iteration6/Effet-Papillon/tree/main/docs/preproduction
 
-## Cours Incontournables du Programme:
+## 3 Cours Incontournables du Programme:
 ## Technique ou Composante Technologique:
 ## Ressenti en Expérimentant les Installations:
-## Classement du Projet avec Justification:
+## Justification pour Classement de préférence du Projet:
 
 ***
