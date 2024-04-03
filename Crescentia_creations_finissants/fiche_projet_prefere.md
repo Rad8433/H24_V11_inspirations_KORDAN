@@ -7,6 +7,7 @@
 
 ***
 ### Description de l'oeuvre🖼️
+Le projet se présente sous forme de jeu, où l'interacteur est représenté par un personnage. Il doit se déplacer latéralement pour attraper des points et éviter des obstacles. L'interacteur perd une vie lorsqu'il échoue à éviter un obstacle. Lorsqu'il échoue 3 fois, le jeu se termine et affiche un tableau des scores qui répertorie les meilleurs scores réalisés par les interacteurs précédents.
 | Cartel du projet |
 | :---: |
 | <img src="./media/Kigo_cartel.jpg" width=60% height=60%>|
