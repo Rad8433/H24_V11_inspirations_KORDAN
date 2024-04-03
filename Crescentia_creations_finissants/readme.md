@@ -1,1 +1,1 @@
-Ce dossier va comprendre tous les documents témoignant de mon expérience lors de l'exposition Crescentia.
+Ce dossier va inclure tous les documents témoignant de mon expérience lors de l'installation de l'exposition Crescentia.
