@@ -30,7 +30,7 @@ Le projet Kigo se compose d'un projecteur projetant le jeu sur une toile accroch
 | <img src="./media/Kigo_experience.jpg" width=50% height=50%> <br>Un intéracteur qui expérimente le jeu.|
 | <img src="./media/Kigo_projection.jpg" width=50% height=50%> <br>La projection du jeu sur la toile.|
 ## Schéma de l'Installation:
-  <img src="./media/Kigo_plantation_technique.png">
+  <img src="./media/Kigo_plantation_technique.png" width=75%>
   Source: https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
 
 ## 3 Cours Incontournables du Programme:
