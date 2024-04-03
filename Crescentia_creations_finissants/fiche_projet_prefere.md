@@ -30,7 +30,7 @@ Le projet utilise la Kinect V2, un projecteur, des haut-parleurs et des lampes U
 Le projet nécessitait l'utilisation d'un truss pour accrocher le projecteur, les haut-parleurs et les lampes UV, ainsi que des câbles à extensions et une table pour l'ordinateur.
 ***
 ### Expérience vécue
-C'était une expérience dynamique et divertissante où le participant était encouragé à interagir activement en bougeant latéralement.
+C'était une expérience dynamique et divertissante où l'interacteur était encouragé à interagir activement en bougeant latéralement.
 ***
 ### Ce qui vous a plu, vous a donné des idées👍
 J'ai apprécié la simplicité et l'immersion de l'expérience, ainsi que le fait que c'était une expérience amusante.
