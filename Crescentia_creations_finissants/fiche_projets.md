@@ -23,12 +23,12 @@
 ## Lien du projet avec Crescentia:
 Selon moi, le lien entre le projet Kigo et la thématique de l'exposition Crescentia réside dans le fait que c'est un jeu qui évolue en continu : plus vous survivez longtemps dans le jeu, plus le niveau de difficulté augmente. Il y a une croissance dans le niveau de difficulté.
 ## L'installation en cours:
-Le projet Kigo se compose d'un projecteur projetant le jeu sur une toile accrochée au mur, d'une Kinect v2, de haut-parleurs et de lampes UV. L'interacteur se place dans une zone délimitée à l'aide d'un ruban adhésif sur le sol, où seule la Kinect peut le détecter. Le joueur se déplace latéralement pour marquer des points et éviter les obstacles. Pendant le jeu, de la musique accompagne l'expérience, tandis que des sons se déclenchent lorsque le joueur gagne des points ou perd une vie. À la fin du jeu, si le joueur perd toutes ses vies, un tableau des scores s'affiche, montrant son score ainsi que les scores les plus élevés réalisés dans le jeu.
+Le projet Kigo se compose d'un projecteur projetant le jeu sur le mur, d'une Kinect v2, de haut-parleurs et de lampes UV. L'interacteur se place dans une zone délimitée à l'aide d'un ruban adhésif sur le sol, où seule la Kinect peut le détecter. Le joueur se déplace latéralement pour marquer des points et éviter les obstacles. Pendant le jeu, de la musique accompagne l'expérience, tandis que des sons se déclenchent lorsque le joueur gagne des points ou perd une vie. À la fin du jeu, si le joueur perd toutes ses vies, un tableau des scores s'affiche, montrant son score ainsi que les scores les plus élevés réalisés dans le jeu.
 | Photos de l'installation |
 | :---: |
 | <img src="./media/Kigo_production.jpg" width=30% height=30%> <br>Les étudiants qui ajustent le jeu.|
 | <img src="./media/Kigo_experience.jpg" width=50% height=50%> <br>Un intéracteur qui expérimente le jeu.|
-| <img src="./media/Kigo_projection.jpg" width=50% height=50%> <br>La projection du jeu sur la toile.|
+| <img src="./media/Kigo_projection.jpg" width=50% height=50%> <br>La projection du jeu sur le mur.|
 ## Schéma de l'Installation:
   <img src="./media/Kigo_plantation_technique.png" width=75%>
   Source: https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
@@ -57,7 +57,7 @@ J'ai placé ce projet en première position car je l'ai trouvé simple, très in
 ## Lien du projet avec Crescentia:
 Selon moi, le lien entre le projet Rhizomatique et le thème de l'exposition, qui est la croissance, réside dans l'évolution des souvenirs. Selon l'emplacement où l'interacteur place sa main sur la toile, des souvenirs sont affichés, allant des plus anciens aux plus récents, reflétant ainsi un processus de croissance.
 ## L'installation en cours:
-L'expérience Rhizomatique se compose de haut-parleurs, de projecteurs, d'une sorte de boîte munie d'une toile sur sa surface, ainsi que d'une Kinect avec un projecteur en dessous de la boîte. L'interacteur place sa main sur la toile située sur la surface de la boîte, et la Kinect en dessous détecte la position de la main. Lorsque la main est déposée, une silhouette de main s'affiche sur la toile de la boîte, et l'animation sur la toile accrochée au mur change pour présenter un souvenir correspondant. De plus, l'expérience est accompagnée d'un son d'ambiance, et lorsque la main est déposée, un effet sonore est déclenché.
+L'expérience Rhizomatique se compose de haut-parleurs, de projecteurs, d'une sorte de boîte munie d'une toile sur sa surface, ainsi que d'une Kinect avec un projecteur en dessous de la boîte. L'interacteur place sa main sur la toile située sur la surface de la boîte, et la Kinect en dessous détecte la position de la main. Lorsque la main est déposée, une silhouette de main s'affiche sur la toile de la boîte, et l'animation sur le mur change pour présenter un souvenir correspondant. De plus, l'expérience est accompagnée d'un son d'ambiance, et lorsque la main est déposée, un effet sonore est déclenché.
 
 | Photos de l'installation |
 | :---: |
@@ -94,13 +94,13 @@ J'ai placé ce projet en deuxième position parce que j'ai beaucoup aimé le con
 Le lien de ce projet avec le thème de la croissance réside dans le fait que dans l'interaction du projet, il y a une évolution dépendante des actions apportées par les interacteurs.
 
 ## L'installation en cours:
-En termes d'installation, le projet est quelque peu similaire au projet Rhizomatique dans le sens où il utilise des haut-parleurs, des projecteurs et une Kinect. Cependant, au lieu d'une boîte avec la Kinect et un projecteur, il s'agit d'une table qui affiche ce qui est projeté par le projecteur placé en dessous. Sur la table, il y a des statuettes représentant des planètes. Lorsque vous déposez une statuette sur la table, la planète correspondante s'affiche sur la toile murale. Sous les statuettes, il y a une image similaire à un code QR, mais elle sert à identifier quelle statuette afficher et où l'afficher sur la projection murale en fonction de son positionnement sur la table. L'expérience est accompagnée de sons et d'effets sonores.
+En termes d'installation, le projet est quelque peu similaire au projet Rhizomatique dans le sens où il utilise des haut-parleurs, des projecteurs et une Kinect. Cependant, au lieu d'une boîte avec la Kinect et un projecteur, il s'agit d'une table qui affiche ce qui est projeté par le projecteur placé en dessous. Sur la table, il y a des statuettes représentant des planètes. Lorsque vous déposez une statuette sur la table, la planète correspondante s'affiche sur le mur. Sous les statuettes, il y a une image similaire à un code QR, mais elle sert à identifier quelle statuette afficher et où l'afficher sur la projection murale en fonction de son positionnement sur la table. L'expérience est accompagnée de sons et d'effets sonores.
 
 | Photos de l'installation |
 | :---: |
 | <img src="./media/Canevas_cosmique_projecteur.jpg" width=40% height=40%> <br>Le projecteur et la Kinect sont positionnés en dessous de la table.|
 | <img src="./media/Canevas_cosmique_avant_statue.jpg" width=40% height=40%> <br>Avant de créer les statues, ils ont testé avec des cartes en papier comportant le code.|
-| <img src="./media/Canvas_cosmique_projection.jpg" width=45% height=45%> <br>L'expérience projetée sur la toile murale.|
+| <img src="./media/Canvas_cosmique_projection.jpg" width=45% height=45%> <br>L'expérience projetée sur le mur.|
 | <img src="./media/Canevas_cosmique_statue.jpg" width=35% height=35%> <br>La table et les statuettes. (Pendant l'exposition)|
 
 ## Schéma de l'Installation:
@@ -110,7 +110,7 @@ Source: https://github.com/Les-gars-d-la-table/Canevas-Cosmique/raw/main/docs/pr
 ## 3 Cours Incontournables du Programme:
 Les trois cours que je considère comme incontournables pour la réalisation de ce projet sont les cours d'installation multimédia, de modélisation 3D et d'animation 3D. En effet, le projet implique fortement l'utilisation de la projection vidéo, la création en 3D et l'animation d'éléments en 3D.
 ## Technique ou Composante Technologique:
-L'intégration du langage de programmation Python dans le cadre du projet multimédia. Un script Python a été utilisé pour reconnaître l'image sous les statuettes ainsi que leur positionnement sur la table, puis convertir ces données pour les afficher dans l'expérience projetée sur la toile du mur.
+L'intégration du langage de programmation Python dans le cadre du projet multimédia. Un script Python a été utilisé pour reconnaître l'image sous les statuettes ainsi que leur positionnement sur la table, puis convertir ces données pour les afficher dans l'expérience projetée sur le mur.
 ## Ressenti en Expérimentant les Installations:
 L'expérience m'a fait ressentir comme si j'étais au Cosmodôme ou dans un autre musée lié à l'astronomie, où il y aurait une expérience interactive similaire. Cela m'a aussi donné un sentiment de contrôle car j'ai pu essayer différentes combinaisons de planètes et de positionnements de statuettes sur la table, et cela affichait toujours un résultat différent.
 ## Justification pour Classement de préférence:
