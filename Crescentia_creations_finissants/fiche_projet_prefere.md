@@ -1,8 +1,8 @@
 # Kigo
 <h3 align="center">Voici ma documentation de l'expérience du projet Kigo de l'exposition Crescentia.</h3>
 <p align="center">
-  <img src="./media/Kigo_experience.jpg" width=60% height=60%>
-<br>Photo de l'expérience Kigo</br>
+  <img src="./media/Kigo_zone_jeu.jpg" width=60% height=60%>
+<br>Photo de la zone de jeu</br>
 </p>
 
 ***
@@ -25,6 +25,11 @@ Le projecteur, les haut-parleurs et les lampes UV sont suspendus. En face de l'i
 ***
 ### Composantes et techniques
 Le projet utilise la Kinect V2, un projecteur, des haut-parleurs et des lampes UV. De plus, il fait usage de logiciels tels que Kinect Studio, Unity, TouchDesigner, OBS, Reaper, Maya et Blender.
+| Photos des composantes du projet. |
+| :---: |
+| <img src="./media/Kigo_projecteur.jpg" width=40%> <br>Le projecteur.| 
+| <img src="./media/Kigo_production.jpg" width=40%> <br>L'ordinateur qui est connecté à tous les dispositifs. |
+| <img src="./media/Kigo_hautparleurs.jpg" width=40%> <br>Les haut-parleurs.|
 ***
 ### Éléments nécessaires à la mise en exposition
 Le projet nécessitait l'utilisation d'un truss pour accrocher le projecteur, les haut-parleurs et les lampes UV, ainsi que des câbles à extensions et une table pour l'ordinateur.
@@ -39,3 +44,7 @@ J'ai apprécié la simplicité et l'immersion de l'expérience, ainsi que le fai
 L'aspect qui m'a le moins plu dans l'expérience est que le jeu prend du temps pour devenir difficile ou rapide. La difficulté du jeu évolue avec le temps, mais cela prend beaucoup de temps pour que le jeu devienne réellement difficile.
 ***
 ### Autres photos et vidéos de l'expérience.
+| Photos et vidéos de l'expérience |
+| :---: |
+| <img src="./media/Kigo_projection.jpg" width="40%" height="40%"> <br>Photo de la projection |
+| <a href="https://youtu.be/NUfmbsECOio" target="_blank"><img src="./media/Kigo_experience.jpg" width="40%" height="40%"></a> <br>Cliquez sur l'image pour voir la vidéo.  |
