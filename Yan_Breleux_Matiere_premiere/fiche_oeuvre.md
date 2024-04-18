@@ -28,6 +28,8 @@ L'expérience était contemplative et met en lumière la capacité de l'art à s
 
 ### Mise en espace
 Il y avait 4 écrans carrés collés sur le mur de gauche, formant comme un cadre, et à côté, 3 longs écrans collés placés verticalement. Sur le mur du fond, un écran était placé horizontalement, tandis que sur le mur de droite, un écran était placé verticalement, tout comme ceux de gauche. Près du mur de gauche se trouvaient deux bancs pour s'asseoir.
+
+Les murs ont été stratégiquement placés pour dissimuler derrière tout le câblage et autre matériel nécessaire au fonctionnement de l'œuvre.
 <p align="center">
   <img src="./MEDIA/Croquis_experience.jpg" width=50% height=50%>
   <br>Croquis de l'expérience</br>
