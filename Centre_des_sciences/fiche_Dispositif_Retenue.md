@@ -46,5 +46,5 @@ Intéractive
 ### Autres photos et vidéos de l'expérience.
 | Photos et vidéos de l'expérience |
 | :---: |
-| <img src="./media/Kigo_projection.jpg" width="40%" height="40%"> <br>Photo de la projection |
-| <a href="https://youtu.be/NUfmbsECOio" target="_blank"><img src="./media/Kigo_experience.jpg" width="40%" height="40%"></a> <br>Cliquez sur l'image pour voir la vidéo.  |
+| <img src="./media/" width="40%" height="40%"> |
+| <img src="./media/" width="40%" height="40%"> |
