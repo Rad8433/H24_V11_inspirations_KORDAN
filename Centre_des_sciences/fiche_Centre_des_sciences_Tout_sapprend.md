@@ -9,7 +9,7 @@
 | [**Expérience vécue**](#expérience-vécue) |
 | [**Ce qui vous a plu**](#ce-qui-vous-a-plu-vous-a-donné-des-idées) |
 | [**Aspect que vous ne souhaiteriez pas retenir**](#aspect-que-vous-ne-souhaiteriez-pas-retenir-pour-vos-propres-créations-ou-que-vous-feriez-autrement) |
-| [**Autres photos et vidéos**](#autres-photos-et-vidéos-de-lexpérience) |
+| [**Autres photos**](#autres-photos-de-lexpérience) |
 | [**Crédits et partenaires**](#crédits-et-partenaires-de-lexposition-permanente) |
 <h3 align="center">Voici ma documentation sur le dispositif "Tout s'apprend" de l'exposition permanente du Centre des sciences de Montréal.</h3>
 <p align="center">
@@ -54,7 +54,7 @@ J'ai aimé la simplicité de l'interface du dispositif car elle rend l'expérien
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement👎
 Il n'y a aucun aspect que je ne voudrais pas retenir.
 ***
-### Autres photos et vidéos de l'expérience.
+### Autres photos de l'expérience.
 | Photos de l'expérience |
 | :---: |
 | <img src="./media/C_d_s_dispositif_mode_IA_moyen.jpg" width="40%" height="40%"> <br> Sur cet écran, on peut modifier le style artistique et le niveau d'IA utilisé. Si le cercle est à droite, l'IA utilisée est élevée, et à gauche, le niveau d'utilisation est très faible. Au centre, le niveau est moyen.|
