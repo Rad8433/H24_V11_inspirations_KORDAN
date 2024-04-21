@@ -1,19 +1,19 @@
 # Tout s'apprend
 <h3 align="center">Voici ma documentation sur le dispositif "Tout s'apprend" de l'exposition permanente du Centre des sciences de Montréal.</h3>
 <p align="center">
-  <img src="./media/" width=60% height=60%>
+  <img src="./media/C_d_s_photo_de_moi_devant.jpg" width=60% height=60%>
 <br>Photo de moi devant le Centre des sciences de Montréal</br>
 </p>
 
 ***
 ### Description du dispositif🖼️
-
-| Cartel du projet |
+C'est un dispositif qui démontre aux utilisateurs les capacités de l'intelligence artificielle en transformant ce qu'elle capture avec la caméra en œuvre d'art dans le même style que les fameuses murales de Montréal. 
+| Description du dispositif |
 | :---: |
-| <img src="./media/" width=60% height=60%>|
+| <img src="./media/C_d_s_description_dispositif.jpg/" width=50%> |
 ***
 ### Type d'installation (contemplative, immersive, interactive)
-Intéractive
+C'est une installation interactive et légèrement immersive où l'utilisateur peut modifier les paramètres de l'expérience, offrant ainsi le choix de changer le style artistique utilisé et le niveau d'intelligence artificielle employé. Le fait que la caméra nous capture et nous projette sous forme d'œuvre d'art confère cet aspect d'immersion à l'expérience.
 
 ***
 
