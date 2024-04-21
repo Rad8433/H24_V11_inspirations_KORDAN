@@ -25,23 +25,22 @@ Il s'agit de deux grandes boîtes, chacune avec un écran (un tactile et l'autre
 ***
 ### Composantes et techniques
 Le dispositif utilise des écrans, des ordinateurs, des câbles d'alimentation et d'extension. Il fait également appel à l'intelligence artificielle.
-| Photos des composantes du projet. |
+| Photos des composantes du dispositif. |
 | :---: |
-| <img src="./media/" width=40%> <br>| 
-| <img src="./media/" width=40%> <br> |
-| <img src="./media/" width=40%> <br>|
+| <img src="./media/C_d_s_interieur_dispositif.jpg" width=40%> <br> L'intérieur du dispositif, on peut voir les câbles, l'ordinateur et les autres composantes qui font fonctionner le dispositif.| 
+| <img src="./media/C_d_s_dispositif_camera.png" width=40%> <br> On peut remarquer que le deuxième écran est équipé d'une caméra. |
 ***
 ### Éléments nécessaires à la mise en exposition
-
+Des supports pour maintenir les écrans en place.
 ***
 ### Expérience vécue
-
+C'était une expérience simple et ludique.
 ***
 ### Ce qui vous a plu, vous a donné des idées👍
-
+J'ai aimé la simplicité de l'interface du dispositif car elle rend l'expérience intuitive.
 ***
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement👎
-
+Il n'y a aucun aspect que je ne voudrais pas retenir.
 ***
 ### Autres photos et vidéos de l'expérience.
 | Photos et vidéos de l'expérience |
