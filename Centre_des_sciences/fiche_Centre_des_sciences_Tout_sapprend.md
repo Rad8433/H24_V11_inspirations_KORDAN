@@ -1,4 +1,16 @@
 # Tout s'apprend
+| **Table des matières** |
+|-----------------------|
+| [**Description du dispositif**](#description-du-dispositif) |
+| [**Type d'installation**](#type-dinstallation-contemplative-immersive-interactive) |
+| [**Mise en espace**](#mise-en-espace) |
+| [**Composantes et techniques**](#composantes-et-techniques) |
+| [**Éléments nécessaires**](#éléments-nécessaires-à-la-mise-en-exposition) |
+| [**Expérience vécue**](#expérience-vécue) |
+| [**Ce qui vous a plu**](#ce-qui-vous-a-plu-vous-a-donné-des-idées) |
+| [**Aspect que vous ne souhaiteriez pas retenir**](#aspect-que-vous-ne-souhaiteriez-pas-retenir-pour-vos-propres-créations-ou-que-vous-feriez-autrement) |
+| [**Autres photos et vidéos**](#autres-photos-et-vidéos-de-lexpérience) |
+| [**Crédits et partenaires**](#crédits-et-partenaires-de-lexposition-permanente) |
 <h3 align="center">Voici ma documentation sur le dispositif "Tout s'apprend" de l'exposition permanente du Centre des sciences de Montréal.</h3>
 <p align="center">
   <img src="./media/C_d_s_photo_de_moi_devant.jpg" width=50%>
@@ -6,7 +18,7 @@
 </p>
 
 ***
-### Description du dispositif🖼️
+### Description du dispositif
 C'est un dispositif qui démontre aux utilisateurs les capacités de l'intelligence artificielle en transformant ce qu'elle capture avec la caméra en œuvre d'art dans le même style que les fameuses murales de Montréal. 
 | Description du dispositif |
 | :---: |
@@ -50,3 +62,7 @@ Il n'y a aucun aspect que je ne voudrais pas retenir.
 | <img src="./media/C_d_s_dispositif_style2_moyen.jpg" width="35%"> <br> Niveau d'IA moyen.| 
 |<img src="./media/C_d_s_dispositif_style2_elevee.jpg" width="35%"> <br> Niveau d'IA élevée.|
 
+## Crédits et partenaires de l'exposition permanente.
+<p align="center">
+  <img src="./media/C_d_s_credits_conception_projet.jpg" width=30%> <img src="./media/C_d_s_credits_video_scientifique.jpg" width=30%> <img src="./media/C_d_s_parternaires.jpg" width=30%>
+</p>
