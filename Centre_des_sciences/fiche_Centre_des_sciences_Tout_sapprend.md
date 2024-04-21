@@ -18,13 +18,13 @@ C'est une installation interactive et légèrement immersive où l'utilisateur p
 ***
 
 ### Mise en espace
-
+Il s'agit de deux grandes boîtes, chacune avec un écran (un tactile et l'autre non). Celle qui n'a pas d'écran tactile est équipée d'une caméra. À l'intérieur des boîtes se trouvent également un ordinateur et les câbles connectés à l'alimentation.
 | Schéma du dispositif |
 | :---: |
-|<img src="./media/" width=75%> |
+|<img src="./media/C_d_s_schema_dispositif.png" width=75%> |
 ***
 ### Composantes et techniques
-
+Le dispositif utilise des écrans, des ordinateurs, des câbles d'alimentation et d'extension. Il fait également appel à l'intelligence artificielle.
 | Photos des composantes du projet. |
 | :---: |
 | <img src="./media/" width=40%> <br>| 
