@@ -49,7 +49,7 @@ Des supports pour maintenir les écrans en place.
 C'était une expérience simple, court et ludique.
 ***
 ### Ce qui vous a plu, vous a donné des idées👍
-J'ai aimé la simplicité de l'interface du dispositif car elle rend l'expérience intuitive.
+J'ai aimé la simplicité de l'interface du dispositif car elle rend l'expérience très intuitive.
 ***
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement👎
 Il n'y a aucun aspect que je ne voudrais pas retenir.
