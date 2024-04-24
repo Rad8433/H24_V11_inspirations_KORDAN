@@ -30,7 +30,7 @@ C'est une installation interactive et légèrement immersive où l'utilisateur p
 ***
 
 ### Mise en espace
-Il s'agit de deux grandes boîtes placées l'une à côté de l'autre de manière perpendiculaire. Cependant, la boîte qui contient la partie du dispositif que le visiteur peut contrôler est légèrement plus basse que celle qui est équipée de la caméra.
+Il s'agit de deux grandes boîtes placées l'une à côté de l'autre de manière perpendiculaire. Cependant, la boîte qui contient la partie du dispositif que le visiteur peut contrôler est légèrement plus basse que celle qui est équipée de la caméra. De plus, il y a un trou dans les deux boîtiers pour l'écran.
 | Schéma du dispositif |
 | :---: |
 |<img src="./media/C_d_s_schema_dispositif.png" width=45%> |
