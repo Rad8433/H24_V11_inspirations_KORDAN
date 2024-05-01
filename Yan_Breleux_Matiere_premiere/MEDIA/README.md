@@ -1,1 +1,1 @@
-Ce dossier contier les photos de l'oeuvre de Yan Breleux, Matière première.
+Ce dossier contient toutes les photos de l'œuvre de Yan Breleux, Matière première.
