@@ -19,7 +19,7 @@
 
 ***
 ### Description du dispositif
-C'est un dispositif créer par l'équipe de production TKNL et l'exposition a débuté pendant l'année 2019. Le dispositif fait partie d'une exposition permanante qui s'appelle explore et démontre aux visiteurs les capacités de l'intelligence artificielle en transformant ce qu'elle capture avec la caméra dans le même style que les fameuses murales de Montréal.
+C'est un dispositif créer par l'équipe de production TKNL et l'exposition a débuté pendant l'année 2019. Le dispositif fait partie d'une exposition permanante qui s'appelle "Explore" et démontre aux visiteurs les capacités de l'intelligence artificielle en transformant ce qu'elle capture avec la caméra dans le même style que les fameuses murales de Montréal.
 | Description du dispositif |
 | :---: |
 | <img src="./media/C_d_s_description_dispositif.jpg/" width=35%> |
