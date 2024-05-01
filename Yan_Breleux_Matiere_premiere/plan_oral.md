@@ -25,7 +25,7 @@
    - Aspect à ne pas retenir: J'aurais préféré une expérience plus étendue, moins condensée dans un petit espace.
 
 5. **Liens :**
-   - Comparaison avec "Phase Shifting index" de Jeremy Shaw.
+   - Comparaison avec des expériences comme "Cité Mémoire" et "Pixels, petits points et monument"...
 
 ## Conclusion
 - Récapitulation.
